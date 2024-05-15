@@ -1,5 +1,5 @@
 # SCM-PROJECT
-<img src="https://img.shields.io/badge/FITNESS%20TRACKER%20APP-aqua?style=flat-square" alt="FITNESS TRACKER APP" width="280" height="50" />
+<img src="https://img.shields.io/badge/FITNESS%20TRACKER%20APP-pink?style=flat-square" alt="FITNESS TRACKER APP" width="275" height="48" />
 
 SYNCFIT 🏋🏽🔥💪🏼 is the ultimate fitness tracker app designed to help you achieve your health and wellness goals effortlessly. Whether you're a seasoned athlete or just starting your fitness journey, SYNCFIT provides the tools and motivation you need to stay on track and reach your targets.
 
@@ -43,11 +43,9 @@ SYNCFIT 🏋🏽🔥💪🏼 is the ultimate fitness tracker app designed to hel
 - Data Persistence 
 - Form Validation 
 <br>
-<br>
-
 <div role="region" tabindex="0">
 <table>
-    <caption>Table 1</caption>
+  <caption>DETAILS: <caption>
     <thead>
         <tr>
             <th>Version</th>
@@ -65,7 +63,7 @@ SYNCFIT 🏋🏽🔥💪🏼 is the ultimate fitness tracker app designed to hel
         </tr>
         <tr>
             <td>V.2</td>
-            <td>14 May 2024</td>
+            <td>15 May 2024</td>
             <td>Namita</td>
             <td>Muskan and Naman</td>
         </tr>
