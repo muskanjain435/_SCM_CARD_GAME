@@ -44,7 +44,6 @@ SYNCFIT 🏋🏽🔥💪🏼 is the ultimate fitness tracker app designed to hel
 - Form Validation 
 <br>
 <br>
-
 <div role="region" tabindex="0">
 <table>
   <caption>DETAILS: <caption>
