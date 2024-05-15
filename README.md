@@ -65,7 +65,7 @@ SYNCFIT 🏋🏽🔥💪🏼 is the ultimate fitness tracker app designed to hel
         </tr>
         <tr>
             <td>V.2</td>
-            <td>14 May 2024</td>
+            <td>15 May 2024</td>
             <td>Namita</td>
             <td>Muskan and Naman</td>
         </tr>
