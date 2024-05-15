@@ -44,3 +44,38 @@ SYNCFIT 🏋🏽🔥💪🏼 is the ultimate fitness tracker app designed to hel
 - Form Validation 
 <br>
 <br>
+
+<div role="region" tabindex="0">
+<table>
+    <caption>Table 1</caption>
+    <thead>
+        <tr>
+            <th>Version</th>
+            <th>Deadline</th>
+            <th>Github Managers</th>
+            <th>&nbsp;Additional Contributors</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>V.1<br></td>
+            <td>12 May 2024</td>
+            <td>Muskan</td>
+            <td>Namita and Naman</td>
+        </tr>
+        <tr>
+            <td>V.2</td>
+            <td>14 May 2024</td>
+            <td>Namita</td>
+            <td>Muskan and Naman</td>
+        </tr>
+        <tr>
+            <td>V.3</td>
+            <td>17 May 2024</td>
+            <td>Naman</td>
+            <td>Muskan and Namita</td>
+        </tr>
+    </tbody>
+</table>
+<div style="margin-top:8px">Made with <a href="https://www.htmltables.io/" target="_blank">HTML Tables</a></div>
+</div>
