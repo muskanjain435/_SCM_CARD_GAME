@@ -1,7 +1,7 @@
 # SCM-PROJECT
-<img src="https://img.shields.io/badge/FITNESS%20TRACKER%20APP-pink?style=flat-square" alt="FITNESS TRACKER APP" width="275" height="48" />
+<img src="https://img.shields.io/badge/FITNESS%20TRACKER%20APP-pink?style=flat-square" alt="MEMORY CARD GAME!" width="275" height="48" />
 
-SYNCFIT 🏋🏽🔥💪🏼 is the ultimate fitness tracker app designed to help you achieve your health and wellness goals effortlessly. Whether you're a seasoned athlete or just starting your fitness journey, SYNCFIT provides the tools and motivation you need to stay on track and reach your targets.
+The Memory Card Game is a web-based game where players flip over pairs of cards and try to match them. This project aims to provide a simple and entertaining way to practice memory skills.
 
 ## TEAM MEMBERS
 - MUSKAN(2310992158)
@@ -9,11 +9,11 @@ SYNCFIT 🏋🏽🔥💪🏼 is the ultimate fitness tracker app designed to hel
 - NAMITA(2310992161)
 
 #### PROJECT DESCRIPTION
-- HTML : HTML (Hypertext Markup Language) is used to structure the content of the fitness tracker app, defining the layout of elements such as buttons, forms, and text.
-- CSS : CSS (Cascading Style Sheets) is used to style the HTML elements, defining their appearance, colors, fonts, and layout to create a visually appealing user interface for the fitness tracker app.
-- JavaScript : JavaScript is used to add interactivity and functionality to the fitness tracker app, such as handling user inputs, performing calculations, updating data dynamically, and interacting with external 
-  APIs for features like real-time tracking and analysis.
-- Python : Python is used in a fitness tracker app for data analysis, algorithm implementation, and backend server operations.
+- HTML : HTML (Hypertext Markup Language) is used to structure the content of the game , defining the layout of elements such as buttons, forms, and text.
+- CSS : CSS (Cascading Style Sheets) is used to style the HTML elements, defining their appearance, colors, fonts, and layout to create a visually appealing user interface.
+- JavaScript : JavaScript is used to add interactivity and functionality to the project
+  
+
 <div>
 <div class="inline-block">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="45" height="45"/>
@@ -24,24 +24,22 @@ SYNCFIT 🏋🏽🔥💪🏼 is the ultimate fitness tracker app designed to hel
 
 ##### FEATURES
 
-###### HTML Features:
-- User Profile Page
-- Dashboard
-- Activity Log
-- Goal Setting
-
-###### CSS Features:
-- Responsive Design
-- Custom Styling
-- Animations 
-- Accessibility
+- Responsive design
+- Animated card flips
+- Countdown timer
+- Move counter
+- Win/loss messages
 
 
-###### JavaScript Features:
-- Data Visualization 
-- Real-time Updates
-- Data Persistence 
-- Form Validation 
+###### RULES OF THE GAME
+- The game starts with all cards facing down.
+- A player flips over two cards at a time.
+- If the cards match, they remain face up.
+- If the cards do not match, they are flipped back face down.
+- The game continues until all cards are matched.
+- The player wins if they match all pairs within the time limit and minimum moves
+
+  
 <br>
 <div role="region" tabindex="0">
 <table>
