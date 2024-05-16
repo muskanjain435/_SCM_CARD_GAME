@@ -1,18 +1,30 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Memory Card Game</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-  </head>
-  <body>
-    <h1>Memory Cards</h1>
-    <div class="grid-container">
-    </div>
-    <p>Score: <span class="score"></span></p>
-    <div class="actions">
-        <button onclick="restart()">Restart</button>
-    </div>
-
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Memory Card Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Memory Card Game</h1>
+    <p>Test your memory skills by matching pairs of cards!</p>
+  </header>
+  <div class="container">
+    <main>
+      <div class="scoreboard">
+        <div id="matches">Matches: 0</div>
+        <div id="attempts">Attempts: 0</div>
+      </div>
+      <div class="grid" id="game-board">
+        <!-- Cards will be generated here -->
+      </div>
+    </main>
+  </div>
+  <footer>
+    <p>&copy; 2024 Memory Card Game. All Rights Reserved.</p>
+  </footer>
+  <script src="app.js"></script>
+</body>
 </html>
