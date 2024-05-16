@@ -71,3 +71,7 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
             <td>17 MAY 2024</td>
             <td>Naman</td>
             <td>Final Execution</td>
+            <td>Muskan+Namita</td>
+        </tr>
+    </tbody>
+</table>
