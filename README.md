@@ -4,8 +4,8 @@
 The Memory Card Game is a web-based game where players flip over pairs of cards and try to match them. This project aims to provide a simple and entertaining way to practice memory skills.
 
 ## TEAM MEMBERS
-- MUSKAN(2310992158)
-- NAMAN(2310992160)   https://github.com/muskanjain435
+- MUSKAN(2310992158)  https://github.com/muskanjain435
+- NAMAN(2310992160) 
 - NAMITA(2310992161)  https://github.com/namitagupta505
 
 #### PROJECT DESCRIPTION
