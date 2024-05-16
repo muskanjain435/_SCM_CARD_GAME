@@ -4,16 +4,19 @@ let firstCard, secondCard;
 let lockBoard = false;
 let score = 0;
 
+// Initialize score display
 document.querySelector(".score").textContent = score;
 
+// Fetch card data and initialize the game
 fetch("./data/cards.json")
   .then((res) => res.json())
   .then((data) => {
-    cards = [...data, ...data];
+    cards = [...data, ...data]; // Duplicate cards for pairs
     shuffleCards();
     generateCards();
   });
 
+  // Fisher-Yates shuffle algorithm to randomize card order
 function shuffleCards() {
   let currentIndex = cards.length,
     randomIndex,
