@@ -1,5 +1,5 @@
 # SCM-PROJECT
-<img src="https://img.shields.io/badge/FITNESS%20TRACKER%20APP-pink?style=flat-square" alt="MEMORY-CARD-GAME" width="275" height="48" />
+<img src="https://img.shields.io/badge/MEMORY%20CARD%20GAME-pink?style=flat-square" alt="MEMORY-CARD-GAME" width="275" height="48" />
 
 The Memory Card Game is a web-based game where players flip over pairs of cards and try to match them. This project aims to provide a simple and entertaining way to practice memory skills.
 
