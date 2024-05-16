@@ -39,36 +39,41 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
 
   
 <br>
-<div role="region" tabindex="0">
+
 <table>
-  <caption>DETAILS: <caption>
+    <caption>OUTLINE:</caption>
     <thead>
         <tr>
-            <th>Version</th>
-            <th>Deadline</th>
-            <th>Github Managers</th>
-            <th>&nbsp;Additional Contributors</th>
+            <th>VERSION</th>
+            <th>DEADLINE</th>
+            <th>GITHUB MANAGERS</th>
+            <th>CONTRIBUTION</th>
+            <th>ADDITIONAL CONTRIBUTORS</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>V.1<br></td>
-            <td>12 May 2024</td>
+            <td>V.1</td>
+            <td>12 MAY 2024</td>
             <td>Muskan</td>
-            <td>Namita and Naman</td>
+            <td>Layout</td>
+            <td>Namita+Naman</td>
         </tr>
         <tr>
             <td>V.2</td>
-            <td>15 May 2024</td>
+            <td>15 MAY 2024</td>
             <td>Namita</td>
-            <td>Muskan and Naman</td>
+            <td>Functioning</td>
+            <td>Naman+Muskan</td>
         </tr>
         <tr>
             <td>V.3</td>
-            <td>17 May 2024</td>
+            <td>17 MAY 2024</td>
             <td>Naman</td>
-            <td>Muskan and Namita</td>
+            <td>Final Execution</td>
+            <td>Muskan+Namita</td>
         </tr>
     </tbody>
 </table>
+
 
