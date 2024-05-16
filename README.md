@@ -5,8 +5,8 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
 
 ## TEAM MEMBERS
 - MUSKAN(2310992158)
-- NAMAN(2310992160)
-- NAMITA(2310992161)
+- NAMAN(2310992160)   https://github.com/muskanjain435
+- NAMITA(2310992161)  https://github.com/namitagupta505
 
 #### PROJECT DESCRIPTION
 - HTML : HTML (Hypertext Markup Language) is used to structure the content of the game , defining the layout of elements such as buttons, forms, and text.
