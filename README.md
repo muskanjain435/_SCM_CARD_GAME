@@ -1,14 +1,14 @@
-# SCM-PROJECT
+🚀# SCM-PROJECT
 <img src="https://img.shields.io/badge/MEMORY%20CARD%20GAME-pink?style=flat-square" alt="MEMORY-CARD-GAME" width="275" height="48" />
 
 The Memory Card Game is a web-based game where players flip over pairs of cards and try to match them. This project aims to provide a simple and entertaining way to practice memory skills.
 
-## TEAM MEMBERS
+🚀## TEAM MEMBERS
 - MUSKAN(2310992158)
 - NAMAN(2310992160)   https://github.com/muskanjain435
 - NAMITA(2310992161)  https://github.com/namitagupta505
 
-#### PROJECT DESCRIPTION
+🚀#### PROJECT DESCRIPTION
 - HTML : HTML (Hypertext Markup Language) is used to structure the content of the game , defining the layout of elements such as buttons, forms, and text.
 - CSS : CSS (Cascading Style Sheets) is used to style the HTML elements, defining their appearance, colors, fonts, and layout to create a visually appealing user interface.
 - JavaScript : JavaScript is used to add interactivity to the game. It handles the game logic, such as shuffling the cards, tracking the moves, and checking for matches. 
@@ -20,7 +20,7 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="45" height="45"/>
 </div>
 
-##### FEATURES
+🚀##### FEATURES
 
 - Responsive design
 - Animated card flips
@@ -29,7 +29,7 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
 - Win/loss messages
 
 
-###### RULES OF THE GAME
+🚀###### RULES OF THE GAME
 - The game starts with all cards facing down.
 - A player flips over two cards at a time.
 - If the cards match, they remain face up.
