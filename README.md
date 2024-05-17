@@ -4,9 +4,9 @@
 The Memory Card Game is a web-based game where players flip over pairs of cards and try to match them. This project aims to provide a simple and entertaining way to practice memory skills.
 
 <h2> TEAM MEMBERS</h2>
-- <h5>MUSKAN(2310992158)  https://github.com/muskanjain435</h5>
-- <h5>NAMAN(2310992160)   https://github.com/naman0403</h5>
-- <h5>NAMITA(2310992161)  https://github.com/namitagupta505</h5>
+ <p><h5>MUSKAN(2310992158)  https://github.com/muskanjain435</h5>
+ <h5>NAMAN(2310992160)   https://github.com/naman0403</h5>
+ <h5>NAMITA(2310992161)  https://github.com/namitagupta505</h5></p>
 
 <h2>PROJECT DESCRIPTION</h2>
 - <b>HTML :</b> HTML (Hypertext Markup Language) is used to structure the content of the game , defining the layout of elements such as buttons, forms, and text.
@@ -21,25 +21,26 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
 </div>
 
 <h2>FEATURES</h2>
-
+<p>
 - Responsive design
 - Animated card flips
 - Countdown timer
 - Move counter
-- Win/loss messages
+- Win/loss messages</p>
 
 
 <h2>RULES OF THE GAME</h2>
+<p>
 - The game starts with all cards facing down.
 - A player flips over two cards at a time.
 - If the cards match, they remain face up.
 - If they do not matcch , then tyhey will go face down and the game will continue.
 - The game continues until all cards are matched.
 - The player wins if they match all pairs within the time limit and minimum moves
-- you can reset the game score and then play again.
+- you can reset the game score and then play again.</p>
 
   
-<br>
+<br><br><br>
 
 <table>
     <caption>OUTLINE:</caption>
