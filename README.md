@@ -9,9 +9,9 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
  <h5>NAMITA(2310992161)  https://github.com/namitagupta505</h5></p>
 
 <h2>PROJECT DESCRIPTION</h2>
-- <b>HTML :</b> HTML (Hypertext Markup Language) is used to structure the content of the game , defining the layout of elements such as buttons, forms, and text.
-- <b>CSS :</b> CSS (Cascading Style Sheets) is used to style the HTML elements, defining their appearance, colors, fonts, and layout to create a visually appealing user interface.
-- <b>JavaScript :</b> JavaScript is used to add interactivity to the game. It handles the game logic, such as shuffling the cards, tracking the moves, and checking for matches. 
+<b>HTML :</b> HTML (Hypertext Markup Language) is used to structure the content of the game , defining the layout of elements such as buttons, forms, and text. 
+<b>CSS :</b> CSS (Cascading Style Sheets) is used to style the HTML elements, defining their appearance, colors, fonts, and layout to create a visually appealing user interface.
+<b>JavaScript :</b> JavaScript is used to add interactivity to the game. It handles the game logic, such as shuffling the cards, tracking the moves, and checking for matches. 
 <div>
 <div class="inline-block">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="45" height="45"/>
@@ -22,22 +22,22 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
 
 <h2>FEATURES</h2>
 <p>
-- Responsive design
-- Animated card flips
-- Countdown timer
-- Move counter
-- Win/loss messages</p>
+1. Responsive design
+2. Animated card flips
+3. Countdown timer
+4. Move counter
+5. Win/loss messages</p>
 
 
 <h2>RULES OF THE GAME</h2>
 <p>
-- The game starts with all cards facing down.
-- A player flips over two cards at a time.
-- If the cards match, they remain face up.
-- If they do not matcch , then tyhey will go face down and the game will continue.
-- The game continues until all cards are matched.
-- The player wins if they match all pairs within the time limit and minimum moves
-- you can reset the game score and then play again.</p>
+1. The game starts with all cards facing down.
+2. A player flips over two cards at a time.
+3. If the cards match, they remain face up.
+4. If they do not matcch , then tyhey will go face down and the game will continue.
+5. The game continues until all cards are matched.
+6. The player wins if they match all pairs within the time limit and minimum moves
+7. You can reset the game score and then play again.</p>
 
   
 <br><br><br>
