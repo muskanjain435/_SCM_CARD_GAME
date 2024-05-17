@@ -20,7 +20,7 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="45" height="45"/>
 </div>
 
-FEATURES
+<h2>FEATURES</h2>
 
 - Responsive design
 - Animated card flips
@@ -29,7 +29,7 @@ FEATURES
 - Win/loss messages
 
 
-###### RULES OF THE GAME
+<h2>RULES OF THE GAME</h2>
 - The game starts with all cards facing down.
 - A player flips over two cards at a time.
 - If the cards match, they remain face up.
