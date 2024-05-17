@@ -33,10 +33,7 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
 - The game starts with all cards facing down.
 - A player flips over two cards at a time.
 - If the cards match, they remain face up.
-- If the cards do not match, they are flipped back face down.
-- The game continues until all cards are matched.
-- The player wins if they match all pairs within the time limit and minimum moves
-
+  
   
 <br>
 
