@@ -10,8 +10,8 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
 
 #### PROJECT DESCRIPTION
 - <b>HTML :</b> HTML (Hypertext Markup Language) is used to structure the content of the game , defining the layout of elements such as buttons, forms, and text.
-- <b>CSS : CSS<b> (Cascading Style Sheets) is used to style the HTML elements, defining their appearance, colors, fonts, and layout to create a visually appealing user interface.
-- <b>JavaScript :<b> JavaScript is used to add interactivity to the game. It handles the game logic, such as shuffling the cards, tracking the moves, and checking for matches. 
+- <b>CSS :</b> CSS (Cascading Style Sheets) is used to style the HTML elements, defining their appearance, colors, fonts, and layout to create a visually appealing user interface.
+- <b>JavaScript :</b> JavaScript is used to add interactivity to the game. It handles the game logic, such as shuffling the cards, tracking the moves, and checking for matches. 
 <div>
 <div class="inline-block">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="45" height="45"/>
