@@ -3,12 +3,12 @@
 
 The Memory Card Game is a web-based game where players flip over pairs of cards and try to match them. This project aims to provide a simple and entertaining way to practice memory skills.
 
-## TEAM MEMBERS
+<h2> TEAM MEMBERS</h2>
 - <h5>MUSKAN(2310992158)  https://github.com/muskanjain435</h5>
 - <h5>NAMAN(2310992160)   https://github.com/naman0403</h5>
 - <h5>NAMITA(2310992161)  https://github.com/namitagupta505</h5>
 
-#### PROJECT DESCRIPTION
+<h2>PROJECT DESCRIPTION</h2>
 - <b>HTML :</b> HTML (Hypertext Markup Language) is used to structure the content of the game , defining the layout of elements such as buttons, forms, and text.
 - <b>CSS :</b> CSS (Cascading Style Sheets) is used to style the HTML elements, defining their appearance, colors, fonts, and layout to create a visually appealing user interface.
 - <b>JavaScript :</b> JavaScript is used to add interactivity to the game. It handles the game logic, such as shuffling the cards, tracking the moves, and checking for matches. 
@@ -20,7 +20,7 @@ The Memory Card Game is a web-based game where players flip over pairs of cards 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" width="45" height="45"/>
 </div>
 
-##### FEATURES
+FEATURES
 
 - Responsive design
 - Animated card flips
